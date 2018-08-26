@@ -1,0 +1,9 @@
+E:\VB Project\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe
+E:\VB Project\Text To Speech\Text To Speech\bin\Debug\Text To Speech.pdb
+E:\VB Project\Text To Speech\Text To Speech\bin\Debug\Text To Speech.xml
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Form1.resources
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Resources.resources
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text To Speech.vbproj.GenerateResource.Cache
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text To Speech.exe
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text To Speech.xml
+E:\VB Project\Text To Speech\Text To Speech\obj\Debug\Text To Speech.pdb
